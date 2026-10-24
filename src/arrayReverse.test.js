@@ -29,7 +29,7 @@ describe(`Function 'arrayReverse':`, () => {
       'esre',
       'verotecn',
       'et',
-      'nesdoog',
+      'nesdooG',
     ]);
   });
 });
