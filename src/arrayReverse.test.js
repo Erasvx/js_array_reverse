@@ -18,9 +18,9 @@ describe(`Function 'arrayReverse':`, () => {
     expect(arrayReverse(['I', '@m', 'here', 'to', 'ch€ck'])).toEqual([
       'k',
       'c€',
-      'hcote',
-      're',
-      'eh@mI',
+      'hcot',
+      'er',
+      'ehm@I',
     ]);
   });
 
